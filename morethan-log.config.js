@@ -10,6 +10,12 @@ const CONFIG = {
     linkedin: '',
     instagram: '',
   },
+  projects: [
+    {
+      name: '',
+      href: ''
+    }
+  ],
   // blog setting (required)
   blog: {
     title: '✨',
