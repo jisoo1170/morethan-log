@@ -7,6 +7,8 @@ const CONFIG = {
     bio: '‍💻✨',
     email: 'cjisoo0117@gmail.com',
     github: 'jisoo1170',
+    linkedin: '',
+    instagram: '',
   },
   // blog setting (required)
   blog: {
