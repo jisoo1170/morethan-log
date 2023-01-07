@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: '',
-      href: ''
+      name: 'velog',
+      href: 'https://velog.io/@jisoo1170'
     }
   ],
   // blog setting (required)
